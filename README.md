@@ -53,4 +53,4 @@ graph TD
 ![](ppt/Slide16.PNG)
 
 ## 📚 How to cite
-* **F. Afdideh**, Mathilde Bonnefond, "Timing and Synchronisation Between Different PCs in an MEG Setup", *in preparation*.
+* **F. Afdideh**, M. Bonnefond, "Timing and Synchronisation Between Different PCs in an MEG Setup", *in preparation*.
